@@ -83,11 +83,8 @@
 ### ✍️ **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 <!-- Replace this with GitHub Action integration to pull posts automatically -->
-- [Title 1](link)
-- [Title 2](link)
+
 <!-- BLOG-POST-LIST:END -->
--->
----
 
 ### 🎵 **Currently Listening**
 [![Spotify](https://novatorem-username.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
