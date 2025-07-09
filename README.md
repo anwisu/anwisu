@@ -2,9 +2,10 @@
 <p align="center">
   <img src="https://your-banner-link-here.svg" alt="Banner" width="100%" />
 </p>
+-->
+<h2 align="center">Hi ₍ᐢ. .ᐢ₎♡ I'm Guia – your CARAT dev 💎✨</h2>
 
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-
+<!--
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=007ACC&center=true&vCenter=true&width=435&lines=Fullstack+Developer;MERN+%7C+Python+%7C+FastAPI;Always+Learning+New+Technologies;Let's+Build+Impactful+Projects!" alt="Typing SVG" />
 </p>
@@ -20,6 +21,8 @@
 - 🤝 Open for collaboration in **Open Source projects**, **Research**, and **Community initiatives**.
 -->
 ---
+
+
 
 ### 🚀 **Languages & Technologies**
 
@@ -55,6 +58,14 @@
 
 ---
 
+### 💎 **SEVENTEEN Badges**
+
+![SEVENTEEN](https://img.shields.io/badge/💎-Carat-blueviolet)
+![Bias](https://img.shields.io/badge/Bias-Hoshi-blue)
+![Currently Listening](https://img.shields.io/badge/🎧-Circles-ff69b4)
+
+---
+
 ### 📊 **GitHub Stats**
 
 <p align="center">
@@ -70,25 +81,24 @@
 </p>
 
 ---
-
+<!--
 ### 🔭 **Currently Working On**
 
 - 🚀 [Project Name or Internship] – [Short description or goals].
 - 📚 Expanding knowledge in **Machine Learning with Python**, **NLP with Cohere**, and **MERN stack scalability**.
 - ✨ Preparing for [Certification or upcoming milestone].
+-->
 
----
-
+<!--
 ### ✍️ **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 <!-- Replace this with GitHub Action integration to pull posts automatically -->
-
 <!-- BLOG-POST-LIST:END -->
-
+<!--
 ### 🎵 **Currently Listening**
 [![Spotify](https://novatorem-username.vercel.app/api/spotify)](https://open.spotify.com/user/12175551462?si=ba00bac7358046cb)
+-->
 
----
 
 ### 🌟 **Pinned Projects**
 
@@ -99,17 +109,15 @@
 </p>
 
 ---
-
+<!--
 ### 💬 **Let's Connect**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/YOURUSERNAME)
 [![Gmail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:youremail@gmail.com)
 [![Dev.to](https://img.shields.io/badge/-Dev.to-000000?logo=dev.to&logoColor=white&style=flat-square)](https://dev.to/YOURUSERNAME)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square)](https://yourportfolio.com)
-
----
+-->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anwisu&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
-
