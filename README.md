@@ -1,4 +1,4 @@
-<!-- Profile Banner (Optional) -->
+<!-- Profile Banner (Optional) 
 <p align="center">
   <img src="https://your-banner-link-here.svg" alt="Banner" width="100%" />
 </p>
@@ -86,7 +86,7 @@
 - [Title 1](link)
 - [Title 2](link)
 <!-- BLOG-POST-LIST:END -->
-
+-->
 ---
 
 ### 🎵 **Currently Listening**
@@ -119,3 +119,4 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
+
