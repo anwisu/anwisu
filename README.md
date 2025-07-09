@@ -87,18 +87,15 @@
 <!-- BLOG-POST-LIST:END -->
 
 ### 🎵 **Currently Listening**
-[![Spotify](https://novatorem-username.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
+[![Spotify](https://novatorem-username.vercel.app/api/spotify)](https://open.spotify.com/user/12175551462?si=ba00bac7358046cb)
 
 ---
 
 ### 🌟 **Pinned Projects**
 
 <p align="center">
-  <a href="https://github.com/YOURUSERNAME/PROJECT1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOURUSERNAME&repo=PROJECT1&theme=radical" />
-  </a>
-  <a href="https://github.com/YOURUSERNAME/PROJECT2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOURUSERNAME&repo=PROJECT2&theme=radical" />
+  <a href="https://github.com/anwisu/yakapcare-web-client.git">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anwisu&repo=yakapcare-web-client&theme=radical" />
   </a>
 </p>
 
@@ -114,6 +111,6 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=anwisu&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
