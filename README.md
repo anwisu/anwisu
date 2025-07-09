@@ -18,7 +18,7 @@
 - 🌱 Learning **AI integration with React & Node**, **DevOps fundamentals**, and **Cloud engineering**.
 - 💡 Passionate about building solutions for **education, health, and accessibility**.
 - 🤝 Open for collaboration in **Open Source projects**, **Research**, and **Community initiatives**.
-
+-->
 ---
 
 ### 🚀 **Languages & Technologies**
@@ -44,7 +44,6 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
 
 #### ☁️ Cloud & DevOps
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=azure-devops&logoColor=white&style=flat-square)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=flat-square)
 
@@ -59,15 +58,15 @@
 ### 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anwisu&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anwisu&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anwisu&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
