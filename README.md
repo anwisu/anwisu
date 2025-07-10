@@ -10,7 +10,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=007ACC&center=true&vCenter=true&width=435&lines=Fullstack+Developer;MERN+%7C+Python+%7C+FastAPI;Always+Learning+New+Technologies;Let's+Build+Impactful+Projects!" alt="Typing SVG" />
 </p>
 
----
 
 ### 💫 **About Me**
 
@@ -71,20 +70,19 @@
 ### 📊 **GitHub Stats**
 
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anwisu&theme=blood" alt="GitHub Streak" />
-</p>
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anwisu&theme=buefy" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anwisu&theme=blood" alt="GitHub Streak" style="max-width: 48%; height: auto;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anwisu&show_icons=true&theme=blood" alt="GitHub Stats" style="max-width: 48%; height: auto;" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anwisu&show_icons=true&theme=blood" alt="GitHub Stats" />
-</p>
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anwisu&theme=buefy" alt="GitHub Profile Details" style="width: 100%; max-width: 100%; height: auto;" />
+</div>
 
-
-[![My GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anwisu&bg_color=ffffff&color=ff5151&line=f1a886&point=4ba3d9&area=true&area_color=f7cac9&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anwisu&bg_color=ffffff&color=ff5151&line=f1a886&point=4ba3d9&area=true&area_color=f7cac9&hide_border=true" alt="GitHub Activity Graph" style="width: 100%; max-width: 100%; height: auto;" />
+</div>
 
 
 
