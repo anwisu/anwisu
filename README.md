@@ -3,7 +3,7 @@
   <img src="https://your-banner-link-here.svg" alt="Banner" width="100%" />
 </p>
 -->
-<h2 align="center">Hi ₍ᐢ. .ᐢ₎♡ I'm Guia – your CARAT dev 💎✨</h2>
+<h2 align="center">Hi ₍ᐢ. .ᐢ₎♡, I'm Guia 💎✨</h2>
 
 <!--
 <p align="center">
@@ -22,64 +22,77 @@
 -->
 ---
 
+<a href="https://gitroll.io/profile/uUQ6wLxh1kKMewfNx4JddvqLIFuV2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uUQ6wLxh1kKMewfNx4JddvqLIFuV2?theme=kawaiiCat" alt="GitRoll Profile Badge"/></a>
 
-
-### 🚀 **Languages & Technologies**
-
-#### 💻 Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
-
-#### ⚛️ Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat-square)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
-
-#### 🖥️ Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat-square)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square)
-
-#### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
-
-#### ☁️ Cloud & DevOps
-![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=azure-devops&logoColor=white&style=flat-square)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=flat-square)
-
-#### 🛠️ Tools
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
+<div align="center">
 
 ---
 
-### 💎 **SEVENTEEN Badges**
+# 🚀 **Technology Stack**
 
-![SEVENTEEN](https://img.shields.io/badge/💎-Carat-blueviolet)
-![Bias](https://img.shields.io/badge/Bias-Hoshi-blue)
-![Currently Listening](https://img.shields.io/badge/🎧-Circles-ff69b4)
+<table>
+<tr>
+<td align="center" width="200">
+<strong>💻 Languages</strong><br/>
+<img src="https://skillicons.dev/icons?i=js,ts,python&theme=light" height="30"/>
+</td>
+<td align="center" width="200">
+<strong>🎨 Frontend</strong><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind&theme=light" height="30"/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<strong>⚡ Backend</strong><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=light" height="30"/>
+</td>
+<td align="center">
+<strong>🗃️ Database</strong><br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=light" height="30"/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<strong>☁️ Cloud & Deploy</strong><br/>
+<img src="https://skillicons.dev/icons?i=azure,gcp,vercel&theme=light" height="30"/>
+</td>
+<td align="center">
+<strong>🤖 IoT & Tools</strong><br/>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,git,vscode&theme=light" height="30"/>
+</td>
+</tr>
+</table>
+
+</div>
+
 
 ---
 
 ### 📊 **GitHub Stats**
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anwisu&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anwisu&theme=blood" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anwisu&theme=radical" alt="GitHub Streak" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anwisu&theme=buefy" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anwisu&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anwisu&show_icons=true&theme=blood" alt="GitHub Stats" />
 </p>
 
+
+[![My GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anwisu&bg_color=ffffff&color=ff5151&line=f1a886&point=4ba3d9&area=true&area_color=f7cac9&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+<!--
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anwisu&layout=compact&theme=blood" alt="Top Languages" />
+</p>
+-->
 ---
 <!--
 ### 🔭 **Currently Working On**
@@ -99,7 +112,7 @@
 [![Spotify](https://novatorem-username.vercel.app/api/spotify)](https://open.spotify.com/user/12175551462?si=ba00bac7358046cb)
 -->
 
-
+<!--
 ### 🌟 **Pinned Projects**
 
 <p align="center">
@@ -107,8 +120,8 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anwisu&repo=yakapcare-web-client&theme=radical" />
   </a>
 </p>
+-->
 
----
 <!--
 ### 💬 **Let's Connect**
 
@@ -117,10 +130,6 @@
 [![Dev.to](https://img.shields.io/badge/-Dev.to-000000?logo=dev.to&logoColor=white&style=flat-square)](https://dev.to/YOURUSERNAME)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square)](https://yourportfolio.com)
 -->
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anwisu&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
 
 <picture>
   <source
@@ -136,3 +145,18 @@
     src="https://raw.githubusercontent.com/anwisu/anwisu/output/light.svg"
   />
 </picture>
+
+---
+
+### 💎 **SEVENTEEN Badges**
+
+![SEVENTEEN](https://img.shields.io/badge/💎-Carat-blueviolet)
+![Bias](https://img.shields.io/badge/Bias-Hoshi-blue)
+![Currently Listening](https://img.shields.io/badge/🎧-Circles-ff69b4)
+
+---
+
+  <img src="https://komarev.com/ghpvc/?username=anwisu&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+
+
+
