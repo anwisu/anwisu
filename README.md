@@ -69,12 +69,10 @@
 
 ### 📊 **GitHub Stats**
 
-
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anwisu&theme=blood" alt="GitHub Streak" style="max-width: 48%; height: auto;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=anwisu&show_icons=true&theme=blood" alt="GitHub Stats" style="max-width: 48%; height: auto;" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anwisu&theme=blood" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anwisu&show_icons=true&theme=blood" alt="GitHub Stats" width="49%" />
+</p>
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anwisu&theme=buefy" alt="GitHub Profile Details" style="width: 100%; max-width: 100%; height: auto;" />
