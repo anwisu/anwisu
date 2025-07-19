@@ -1,24 +1,6 @@
-<!-- Profile Banner (Optional) 
-<p align="center">
-  <img src="https://your-banner-link-here.svg" alt="Banner" width="100%" />
-</p>
--->
+
 <h2 align="center">Hi ₍ᐢ. .ᐢ₎♡, I'm Guia 💎✨</h2>
 
-<!--
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=007ACC&center=true&vCenter=true&width=435&lines=Fullstack+Developer;MERN+%7C+Python+%7C+FastAPI;Always+Learning+New+Technologies;Let's+Build+Impactful+Projects!" alt="Typing SVG" />
-</p>
-
-
-### 💫 **About Me**
-
-- 🎓 BS in [Your Course] from [Your University].
-- 💻 Currently working on **[Your Current Project or Internship]**.
-- 🌱 Learning **AI integration with React & Node**, **DevOps fundamentals**, and **Cloud engineering**.
-- 💡 Passionate about building solutions for **education, health, and accessibility**.
-- 🤝 Open for collaboration in **Open Source projects**, **Research**, and **Community initiatives**.
--->
 ---
 
 <a href="https://gitroll.io/profile/uUQ6wLxh1kKMewfNx4JddvqLIFuV2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uUQ6wLxh1kKMewfNx4JddvqLIFuV2?theme=kawaiiCat" alt="GitRoll Profile Badge"/></a>
