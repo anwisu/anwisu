@@ -79,9 +79,9 @@
 
 <!-- GIF beside the table -->
 <td style="border: none;">
-  <img src="https://media.tenor.com/YYw8_Cvr-wQAAAAM/stoned-cat.gif" width="300" alt="GIF 1"/>
-  <img src="https://media1.tenor.com/images/b53a3ed38b2e43706fd57f6ff33ae1bd/tenor.gif?itemid=5440212" width="300" alt="GIF 2"/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHB3dTl6bW56ZnpoaHZtaTh1a3duazNva2p0YjN5MXNtc2dxaDV1MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/aNqEFrYVnsS52/giphy.gif" width="300" alt="GIF 3"/>
+  <img src="https://media.tenor.com/YYw8_Cvr-wQAAAAM/stoned-cat.gif" width="200" alt="GIF 1"/>
+  <img src="https://media1.tenor.com/images/b53a3ed38b2e43706fd57f6ff33ae1bd/tenor.gif?itemid=5440212" width="200" alt="GIF 2"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHB3dTl6bW56ZnpoaHZtaTh1a3duazNva2p0YjN5MXNtc2dxaDV1MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/aNqEFrYVnsS52/giphy.gif" width="200" alt="GIF 3"/>
 
 </td>
 
